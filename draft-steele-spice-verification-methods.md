@@ -19,11 +19,9 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "SPICE Verification Methods"
 category: info
-
-docname: draft-todo-yourname-protocol-latest
+docname: draft-steele-spice-verification-methods-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
